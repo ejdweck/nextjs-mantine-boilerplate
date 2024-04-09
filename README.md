@@ -1,3 +1,9 @@
+
+Very simple boilerplate using nextjs create-next-app, mantine-dev, tabler react icons.
+
+These are personal preferences and will probably change over time.
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
